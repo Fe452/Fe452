@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I’m new to the programming area and I'm currently learning the basic of C and javascrypt languages
 <!--
 **Fe452/Fe452** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
